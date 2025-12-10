@@ -1,0 +1,8 @@
+[package]
+org = "SachinduNethmin"
+name = "hotelreservationapi"
+version = "0.1.0"
+title = "HotelReservationAPI"
+
+[build-options]
+sticky = true
